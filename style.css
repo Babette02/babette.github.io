@@ -76,8 +76,20 @@ button{
     box-sizing: border-box;
     cursor: pointer;
     margin: 10px 15px;
-    background-image: url(sneeuwpop.png);
+ 
     background-position: center;
     background-size: cover;
+}
 
+
+.card1{
+    background-image: url(sneeuwpop.png);}
+.card2{
+    background-image: url(Winter2.webp);
+}
+.card3{
+    background-image: url(sneeuwpop.png);
+}
+.card4{
+    background-image: url(Winter2.webp);
 }
