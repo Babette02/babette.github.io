@@ -76,6 +76,8 @@ button{
     box-sizing: border-box;
     cursor: pointer;
     margin: 10px 15px;
-    background-image: url(win);
+    background-image: url(sneeuwpop.png);
+    background-position: center;
+    background-size: cover;
 
 }
