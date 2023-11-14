@@ -79,6 +79,7 @@ button{
  
     background-position: center;
     background-size: cover;
+    transition: transform 0.5s;
 }
 
 
@@ -92,4 +93,18 @@ button{
 }
 .card4{
     background-image: url(Winter2.webp);
+}
+
+.card{
+   transform: translateY(-10px);    
+}
+
+h5{
+    color: #fff;
+    text-shadow: 0 0 5px #999;
+}
+
+.card p{
+    text-shadow: 0 0 15px #000;
+    font-size: 8px;
 }
